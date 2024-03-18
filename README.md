@@ -1,4 +1,5 @@
 # Overview
+Create a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment
 
 ### Tasks
 - Used reduction techniques such as Principal Component Analysis (PCA) to reduce the dataset's dimensions
